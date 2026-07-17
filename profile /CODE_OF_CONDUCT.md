@@ -12,4 +12,4 @@ Exemplos de comportamento que contribuem para criar um ambiente positivo:
 Comportamentos inaceitáveis incluem assédio, insultos, comentários depreciativos e partilha de informações privadas sem consentimento explícito.
 
 ## Aplicação
-Instâncias de comportamento abusivo, assediante ou inaceitável podem ser reportadas contactando a equipa do projeto em **contato@arch.ia.br**. Todos os relatórios serão revistos e investigados.  
+Instâncias de comportamento abusivo, assediante ou inaceitável podem ser reportadas contactando a equipe do projeto em **contato@arch.ia.br**. Todos os relatórios serão revistos e investigados.  
