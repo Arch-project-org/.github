@@ -1,18 +1,20 @@
-### 📝 Descrição da Feature
 ---
-- Descreva brevemente o objetivo
-### ❓ Problema Relacionado
-- Descreve o problema relacionado
-
-
-### 💡 Solução Proposta
+name: Nova tarefa
+about: Criar uma nova tarefa para o projeto
+title: "[TASK] "
+labels: ""
+assignees: ""
 ---
-Descreva uma proposta para solucionar o problema
 
-### ✅ Critérios de Aceite
----
-- [ ] Deacvreva o que a implementação deve retornar para poder ser aprovada
-- [ ]  
+## Descrição
 
-### 📎 Arquivos relacionados:
-- Descreva quais arquivos estão relacionados a task
+Descreva o que precisa ser desenvolvido.
+
+## Critérios de aceitação
+
+- [ ] Critério 1
+- [ ] Critério 2
+
+## Observações
+
+Adicione informações importantes.
